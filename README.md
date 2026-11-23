@@ -6,7 +6,7 @@
 
 <a href="https://rostislav-565.github.io/autoshkola-pro-showcase/"><img src="images/preview.gif" alt="Промо-превью Автошколы PRO: обзор, ученики и расписание" width="760"></a>
 
-[Смотреть видео на GitHub Pages](https://rostislav-565.github.io/autoshkola-pro-showcase/) · [Открыть MP4](https://raw.githubusercontent.com/Rostislav-565/autoshkola-pro-showcase/main/videos/autoshkola-pro-promo.mp4)
+[Смотреть видео на GitHub Pages](https://rostislav-565.github.io/autoshkola-pro-showcase/) · [Открыть MP4](https://raw.githubusercontent.com/Rostislav-565/autoshkola-pro-showcase/main/videos/autoshkola-pro-promo.mp4) · [Исходный код](app/)
 
 </div>
 
@@ -15,6 +15,10 @@
 «Автошкола PRO» объединяет ежедневные задачи администратора автошколы. Он ведёт группы и инструкторов, назначает занятия, регистрирует оплаты и обрабатывает обращения. Инструктор видит своих учеников и занятия, а ученик — личное расписание, прогресс и чеки.
 
 В витрине показан рабочий интерфейс с демонстрационными данными. Ролик длится 30 секунд, снят в 1920 × 1080 и рассчитан на просмотр без звука.
+
+## Исходный код и запуск
+
+Код CRM находится в каталоге [app](app/). Установка, миграции SQLite, демо-аккаунты и проверки описаны в [руководстве по запуску](app/README.md).
 
 ## Что показано в ролике
 
